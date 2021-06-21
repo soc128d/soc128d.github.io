@@ -13,7 +13,7 @@ Zoom, via Canvas
 
 ### Who?
 
-I am Sheridan, a Ph.D. candidate in the Sociology Department at Stanford University. I am a computational social scientist interested in the relationships amongst folk knowledge, social structure, and behavior. In other words, I am interested in what the world is like to people, how that relates to their social origins and social position, and how these things change or are reproduced. In my dissertation, I am approaching these issues through the institution of work in particular, asking what work means to people and how that relates to their positions in society.
+I am Sheridan, a Ph.D. candidate in the Sociology Department at Stanford University. I am a computational social scientist broadly interested in the relationships amongst beliefs, dispositions, social structure, and behavior. In other words, I am interested not only in what people are like but also what the world is like to them, how that relates to their social origins and social position, and how these things change or are reproduced. In my dissertation, I am approaching these issues through the institution of work in particular, asking what work means to people and how that relates to their positions in society.
 
 You are, so far, a diverse set of students from various programs, at various stages in your educations or careers, and with varied research interests. I'm looking forward to getting to know you and seeing what you uncover once we begin to play around with computational text analysis using Python.
 

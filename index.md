@@ -10,4 +10,3 @@ Welcome to the unofficial official course site for Sociology 128D, Mining Cultur
 
 ![image](assets/images/image file with chair table.png)
 <sub>Custom art by [meherameem](https://www.fiverr.com/meherameem)</sub>
-<!-- {% include image.html url="assets/images/image file with chair table.png" description="Custom art by meherameem" %} -->

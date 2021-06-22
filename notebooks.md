@@ -11,5 +11,4 @@ Notebooks incoming.
 ^ Not the real assignment.
 
 ![image](assets/images/image file without chair table.png)
-
 <p align="right"><sub>Custom art by [meherameem](https://www.fiverr.com/meherameem)</sub></p>

@@ -12,4 +12,4 @@ Notebooks incoming.
 
 ![image](assets/images/image file without chair table.png)
 
-<sub>Custom art by [meherameem](https://www.fiverr.com/meherameem)</sub>
+<p align="right"><sub>Custom art by [meherameem](https://www.fiverr.com/meherameem)</sub></p>

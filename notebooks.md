@@ -9,3 +9,5 @@ Notebooks incoming.
 [example notebook assignment](notebooks/soc128d_example_notebook_6_21.pdf)
 
 ^ Not the real assignment.
+
+![image](assets/images/image file with chair table.png)

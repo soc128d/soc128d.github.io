@@ -10,4 +10,4 @@ Notebooks incoming.
 
 ^ Not the real assignment.
 
-![image](assets/images/image file with chair table.png)
+![image](assets/images/image file without chair table.png)

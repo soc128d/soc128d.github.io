@@ -4,6 +4,7 @@ title: "Notebooks"
 ---
 
 [Notebook 1: Getting Started with Text Data and Jupyter Notebooks](notebooks/notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)
+
 Please also download:
 - [Frankenstein](notebooks/frankenstein.txt)
 - [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt)

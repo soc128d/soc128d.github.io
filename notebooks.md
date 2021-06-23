@@ -8,7 +8,7 @@ title: "Notebooks"
 Please also download:
 - [Frankenstein](notebooks/frankenstein.txt)
 - [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt)
-- [Julis Caesar](notebooks/julius_caesar.txt)
+- [Julius Caesar](notebooks/julius_caesar.txt)
 
 ### Example/draft assignment:
 [example notebook assignment](notebooks/soc128d_example_notebook_6_21.pdf)

@@ -4,7 +4,9 @@ title: "Notebooks"
 ---
 
 [Notebook 1: Getting Started with Text Data and Jupyter Notebooks](notebooks/notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb) <br>
-[Notebook 2: Manipulating, Quantifying, and Visualizating Text Data](notebooks/soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.ipynb)
+[Notebook 2: Manipulating, Quantifying, and Visualizating Text Data](notebooks/soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.ipynb) <br>
+[Notebook 2 (PDF): Manipulating, Quantifying, and Visualizating Text Data](soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.pdf
+)
 
 Please also download:
 - [Frankenstein](notebooks/frankenstein.txt)

@@ -11,10 +11,10 @@ Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [Julius Caesar](notebooks/julius_caesar.txt)
 
 Notebook 2: Manipulating, Quantifying, and Visualizating Text Data <br>
-> [IPYNB](notebooks/soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.ipynb) [PDF](soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.pdf) <br>
+> [IPYNB](notebooks/soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.ipynb) | [PDF](soc128d_notebook_2_manipulating_quantifying_visualizing_text_data.pdf) <br>
 
 Notebook 3: Stylometry <br>
-> [IPYNB](notebooks/soc128d_notebook_3_stylometry.ipynb) [PDF](notebooks/soc128d_notebook_3_stylometry.pdf) <br>
+> [IPYNB](notebooks/soc128d_notebook_3_stylometry.ipynb) | [PDF](notebooks/soc128d_notebook_3_stylometry.pdf) <br>
 
 ### Example/draft assignment:
 [example notebook assignment](notebooks/soc128d_example_notebook_6_21.pdf)

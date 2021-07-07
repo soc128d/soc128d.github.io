@@ -16,6 +16,9 @@ Notebook 2: Manipulating, Quantifying, and Visualizating Text Data <br>
 Notebook 3: Stylometry <br>
 > [IPYNB](notebooks/soc128d_notebook_3_stylometry.ipynb) \| [PDF](notebooks/soc128d_notebook_3_stylometry.pdf) <br>
 
+Notebook 4: Visualizing Sentiment and More using the Empath Library <br>
+> [IPYNB](notebooks/ssoc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.ipynb) \| [PDF](notebooks/soc128d_notebook_3_stylometry.pdf) <br>
+
 ### Example/draft assignment:
 [example notebook assignment](notebooks/soc128d_example_notebook_6_21.pdf)
 

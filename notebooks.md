@@ -18,12 +18,3 @@ Notebook 3: Stylometry <br>
 
 Notebook 4: Visualizing Sentiment and More using the Empath Library <br>
 > [IPYNB](notebooks/soc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.ipynb) <br>
-
-### Example/draft assignment:
-[example notebook assignment](notebooks/soc128d_example_notebook_6_21.pdf)
-
-^ Not the real assignment.
-
-![image](assets/images/image file without chair table.png)
-
-<sub>Custom art by [meherameem](https://www.fiverr.com/meherameem)</sub>

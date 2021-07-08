@@ -17,4 +17,4 @@ Notebook 3: Stylometry <br>
 > [IPYNB](notebooks/soc128d_notebook_3_stylometry.ipynb) \| [PDF](notebooks/soc128d_notebook_3_stylometry.pdf) <br>
 
 Notebook 4: Visualizing Sentiment and More using the Empath Library <br>
-> [IPYNB](notebooks/soc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.ipynb) <br>
+> [IPYNB](notebooks/soc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.ipynb) \| [Preprocessing](notebooks/preprocessing_corpus_for_notebook4.ipynb) <br>

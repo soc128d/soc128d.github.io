@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: "Blog"
 ---
@@ -8,3 +8,11 @@ title: "Blog"
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
+ -->
+ 
+ ---
+layout: page
+title: "Blog"
+---
+
+Posts incoming!

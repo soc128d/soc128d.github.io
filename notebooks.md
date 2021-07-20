@@ -18,3 +18,6 @@ Notebook 3: Stylometry <br>
 
 Notebook 4: Visualizing Sentiment and More using the Empath Library <br>
 > [IPYNB](notebooks/soc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.ipynb) \| [PDF](notebooks/soc128d_notebook_4_visualizing_sentiment_and_more_using_the_empath_library.pdf) \| [Preprocessing](notebooks/soc128d_preprocessing_corpus_for_notebook4.ipynb) <br>
+
+Notebook 5: Document Similarity <br>
+> [IPYNB](notebooks/soc128d_notebook_5_document_similarity.ipynb) \| [PDF](notebooks/soc128d_notebook_5_document_similarity.pdf)

@@ -23,4 +23,4 @@ Notebook 5: Document Similarity <br>
 > [IPYNB](notebooks/soc128d_notebook_5_document_similarity.ipynb) \| [PDF](notebooks/soc128d_notebook_5_document_similarity.pdf)
 
 Notebook 7: Web Scraping and APIs <br>
-> [IPYNB](notebooks/soc128d_notebook_7_webscraping_and_APIs.ipynb) 
+> [IPYNB](notebooks/soc128d_notebook_7_webscraping_and_APIs.ipynb) \| [PDF](notebooks/soc128d_notebook_7_webscraping_and_APIs.pdf)

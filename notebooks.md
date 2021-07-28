@@ -24,3 +24,6 @@ Notebook 5: Document Similarity <br>
 
 Notebook 7: Web Scraping and APIs <br>
 > [IPYNB](notebooks/soc128d_notebook_7_webscraping_and_APIs.ipynb) \| [PDF](notebooks/soc128d_notebook_7_webscraping_and_APIs.pdf)
+
+Notebook 8: Bias in Pretrained Word Embeddings <br>
+> [IPYNB](notebooks/soc128d_notebook_8_bias_in_pretrained_word_embeddings.ipynb)

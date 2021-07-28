@@ -27,3 +27,6 @@ Notebook 7: Web Scraping and APIs <br>
 
 Notebook 8: Bias in Pretrained Word Embeddings <br>
 > [IPYNB](notebooks/soc128d_notebook_8_bias_in_pretrained_word_embeddings.ipynb)
+
+Notebook 9: Training Word Embeddings using Gensim <br>
+> [IPYNB](notebooks/soc128d_notebook_9_training_word_embeddings.ipynb)

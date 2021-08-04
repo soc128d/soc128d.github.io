@@ -30,3 +30,6 @@ Notebook 8: Bias in Pretrained Word Embeddings <br>
 
 Notebook 9: Training Word Embeddings using Gensim <br>
 > [IPYNB](notebooks/soc128d_notebook_9_training_word_embeddings.ipynb) \| [PDF](notebooks/soc128d_notebook_9_training_word_embeddings.pdf)
+
+Notebook 10: Topic Modeling with Gensim <br>
+> [IPYNB](notebooks/soc128d_notebook_10_topic_modeling_with_gensim.ipynb)

@@ -33,3 +33,6 @@ Notebook 9: Training Word Embeddings using Gensim <br>
 
 Notebook 10: Topic Modeling with Gensim <br>
 > [IPYNB](notebooks/soc128d_notebook_10_topic_modeling_with_gensim.ipynb)
+
+Notebook 11: Evaluating Topic Models
+> [IPYNB](notebooks/soc128d_notebook11_evaluating_topic_models.ipynb)

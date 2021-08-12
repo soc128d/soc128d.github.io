@@ -36,3 +36,6 @@ Notebook 10: Topic Modeling with Gensim <br>
 
 Notebook 11: Evaluating Topic Models
 > [IPYNB](notebooks/soc128d_notebook11_evaluating_topic_models.ipynb)
+
+Notebook 12: Modeling Ratings and Sentiment using Python
+> [IPYNB](notebooks/soc128d_Notebook_12_modeling_ratings_and_sentiment_using_python.ipynb)

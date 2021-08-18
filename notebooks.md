@@ -39,3 +39,11 @@ Notebook 11: Evaluating Topic Models
 
 Notebook 12: Modeling Ratings and Sentiment using Python
 > [IPYNB](notebooks/soc128d_notebook_12_modeling_ratings_and_sentiment_using_python.ipynb)
+
+Notebook 13a: Preparing a Sample of Yelp Reviews
+> [IPYNB](notebooks/soc128d_notebook_13a_preparing_a_sample_of_yelp_reviews.ipynb)
+
+Notebook 13b: Combined Topic Models and Using Topics as Variables
+> [Google Colab](https://colab.research.google.com/drive/1FnAVL3BLBrYpJnO80jmrnneNlgaLMkjp?usp=sharing)
+
+For Notebook 13b, save a copy to work on. Restart the runtime when instructed. 

@@ -3,7 +3,9 @@ layout: page
 title: "Notebooks"
 ---
 
-Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
+Keep an eye out for notebooks as we progress through the course!
+
+<!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)
 > Please also download:
 > [Frankenstein](notebooks/frankenstein.txt)
@@ -46,4 +48,4 @@ Notebook 13a: Preparing a Sample of Yelp Reviews
 Notebook 13b: Combined Topic Models and Using Topics as Variables
 > [Google Colab](https://colab.research.google.com/drive/1FnAVL3BLBrYpJnO80jmrnneNlgaLMkjp?usp=sharing)
 
-For Notebook 13b, save a copy to work on. Restart the runtime when instructed. 
+For Notebook 13b, save a copy to work on. Restart the runtime when instructed.  -->

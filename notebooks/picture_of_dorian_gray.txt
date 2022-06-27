@@ -13,11 +13,10 @@ Title: The Picture of Dorian Gray
 Author: Oscar Wilde
 
 Release Date: October, 1994 [eBook #174]
-[Most recently updated: February 25, 2021]
+[Most recently updated: February 3, 2022]
 
 Language: English
 
-Character set encoding: UTF-8
 
 Produced by: Judith Boss. HTML version by Al Haines.
 
@@ -5510,7 +5509,7 @@ realize his conception of the beautiful.
 
 
 
-CHAPTER XII
+CHAPTER XII.
 
 
 It was on the ninth of November, the eve of his own thirty-eighth
@@ -8556,10 +8555,6 @@ THE END
 
 *** END OF THE PROJECT GUTENBERG EBOOK THE PICTURE OF DORIAN GRAY ***
 
-***** This file should be named 174-0.txt or 174-0.zip *****
-This and all associated files of various formats will be found in:
-    https://www.gutenberg.org/1/7/174/
-
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
@@ -8904,5 +8899,4 @@ This website includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
 

@@ -3,7 +3,13 @@ layout: page
 title: "Notebooks"
 ---
 
-Keep an eye out for notebooks as we progress through the course!
+Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
+[IPYNB](notebooks/notebook1_getting_started_with_text_data_and_jupyter_notebooks_v2.ipynb)
+Please also download the following, courtesy of Project Gutenberg:
+[Frankenstein](notebooks/frankenstein.txt)
+[The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt)
+[Julius Caesar](notebooks/julius_caesar.txt)
+
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

@@ -6,7 +6,12 @@ title: "Notebooks"
 **Notebook 1: Getting Started with Text Data and Jupyter Notebooks** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_v2.ipynb) | [Colab](https://colab.research.google.com/drive/117EaXyD9UOnzGep_ABMm9p_jVTm4gmAC?usp=sharing) <br>
 Please also download the following, courtesy of Project Gutenberg: <br>
-[Frankenstein](notebooks/frankenstein.txt) | [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt) | [Julius Caesar](notebooks/julius_caesar.txt)
+[Frankenstein](notebooks/frankenstein.txt) | [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt) | [Julius Caesar](notebooks/julius_caesar.txt) <br><br>
+
+**Notebook 2: Getting Started with Text Data and Jupyter Notebooks** <br>
+[Jupyter Notebook](notebooks/Manipulating, Quantifying, and Visualizating Text Data) | [Colab](https://colab.research.google.com/drive/12GnWfuCiVWow7zRIzSSCcM0XsK0cxrNU?usp=sharing) <br>
+Please also download the following dataset from Kaggle if you have not already: <br>
+[Capitol Riot Twitter Corpus](https://www.kaggle.com/datasets/mrmorj/capitol-riot-tweets)
 
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>

@@ -4,17 +4,17 @@ title: "Notebooks"
 ---
 
 **Notebook 1: Getting Started with Text Data and Jupyter Notebooks** <br>
-[Jupyter Notebook](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sheridanstewart/teaching_intro_social_data_science/blob/main/notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_v2.ipynb) | [Colab](https://colab.research.google.com/drive/117EaXyD9UOnzGep_ABMm9p_jVTm4gmAC?usp=sharing) <br>
+[Jupyter Notebook](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_v2.ipynb) | [Colab](https://colab.research.google.com/drive/117EaXyD9UOnzGep_ABMm9p_jVTm4gmAC?usp=sharing) <br>
 Please also download the following, courtesy of Project Gutenberg: <br>
 [Frankenstein](notebooks/frankenstein.txt) | [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt) | [Julius Caesar](notebooks/julius_caesar.txt) <br><br>
 
 **Notebook 2: Getting Started with Text Data and Jupyter Notebooks** <br>
-[Jupyter Notebook](https://github.com/sheridanstewart/teaching_intro_social_data_science/blob/main/notebooks/soc128d_notebook2_manipulating_quantifying_visualizing_text_data_v2.ipynb) | [Colab](https://colab.research.google.com/drive/12GnWfuCiVWow7zRIzSSCcM0XsK0cxrNU?usp=sharing) <br>
+[Jupyter Notebook](notebooks/soc128d_notebook2_manipulating_quantifying_visualizing_text_data_v2.ipynb) | [Colab](https://colab.research.google.com/drive/12GnWfuCiVWow7zRIzSSCcM0XsK0cxrNU?usp=sharing) <br>
 Please also download the following dataset from Kaggle if you have not already: <br>
 [Capitol Riot Twitter Corpus](https://www.kaggle.com/datasets/mrmorj/capitol-riot-tweets) <br><br>
 
 **Notebook 3: Stylometry (or, an introduction to vector space models with tf-idf)** <br>
-[Jupyter Notebook](https://github.com/sheridanstewart/teaching_intro_social_data_science/blob/main/notebooks/soc128d_notebook3_stylometry_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1tulhS4AW-lXYg7h9kx_5KiOdZ0rduOFj?usp=sharing) <br>
+[Jupyter Notebook](notebooks/soc128d_notebook3_stylometry_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1tulhS4AW-lXYg7h9kx_5KiOdZ0rduOFj?usp=sharing) <br>
 Please also download the following dataset from Kaggle: <br>
 [State of the Union Corpus (1790 - 2018)](https://www.kaggle.com/datasets/rtatman/state-of-the-union-corpus-1989-2017) <b><br>
 

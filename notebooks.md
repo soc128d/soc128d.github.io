@@ -17,8 +17,8 @@ Please also download the following dataset from Kaggle if you have not already: 
 [Jupyter Notebook](notebooks/soc128d_notebook3_stylometry_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1tulhS4AW-lXYg7h9kx_5KiOdZ0rduOFj?usp=sharing) <br>
 Please also download the following dataset from Kaggle: <br>
 [State of the Union Corpus (1790 - 2018)](https://www.kaggle.com/datasets/rtatman/state-of-the-union-corpus-1989-2017) <b><br>
-  
-**Notebook 4:  Visualizing Sentiment and More using the Empath Library** <br>
+
+**Notebook 4: Visualizing Sentiment and More using the Empath Library** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook4_visualizing_sentiment_and_more_using_the_empath_library_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1l0mzA-Z9af4M2ajY61bz0gH2DYi8GP-B?usp=sharing) <br>
 Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
 

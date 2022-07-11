@@ -22,6 +22,11 @@ Please also download the following dataset from Kaggle: <br>
 [Jupyter Notebook](notebooks/soc128d_notebook4_visualizing_sentiment_and_more_using_the_empath_library_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1l0mzA-Z9af4M2ajY61bz0gH2DYi8GP-B?usp=sharing) <br>
 Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
 
+**Notebook 5: Document Similarity** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook5_document_similarity_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1-E6D91TlaDWhjZcIM8VKxGrlw64JZ4hG?usp=sharing) <br>
+Please also download the following dataset from Kaggle: <br>
+[State of the Union Corpus (1790 - 2018)](https://www.kaggle.com/datasets/rtatman/state-of-the-union-corpus-1989-2017) <br><br>
+
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

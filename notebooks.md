@@ -34,6 +34,10 @@ The dataset is available both on Canvas (with Dr. Hessel's permission) and from 
 **Notebook 7: Web Scraping and APIs** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook7_webscraping_and_APIs_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1vRO6XojB8no12jO0dLXDLDD8XgM96DT9?usp=sharing) <br>
 
+
+**Notebook 8: Modeling Ratings and Sentiment using Python** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook8_modeling_ratings_and_sentiment_using_python_v2.ipynb) | [Colab](https://colab.research.google.com/drive/13Z0Sp7PQHjxtiIn-U4Yj7GT3OLojtwTl?usp=sharing) <br>
+
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)
 > Please also download:

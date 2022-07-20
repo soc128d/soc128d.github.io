@@ -31,6 +31,8 @@ Please also download the following dataset from Kaggle: <br>
 [Jupyter Notebook](notebooks/soc128d_notebook6_online_text_social_networks_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1q5ju59GSNno5VE9Q6ZpGJkmr1NE0E_Ot?usp=sharing) <br>
 The dataset is available both on Canvas (with Dr. Hessel's permission) and from [Dr. Hessel's website](https://jmhessel.com/projects/latent_interest/latent_interest.html). On Canvas, you can either download the full dataset (4.6 GB uncompressed) or the two files called for in the main part of the notebook. <br><br>
 
+**Notebook 7: Web Scraping and APIs** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook7_webscraping_and_APIs_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1vRO6XojB8no12jO0dLXDLDD8XgM96DT9?usp=sharing) <br>
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

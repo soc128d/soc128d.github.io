@@ -32,11 +32,15 @@ Please also download the following dataset from Kaggle: <br>
 The dataset is available both on Canvas (with Dr. Hessel's permission) and from [Dr. Hessel's website](https://jmhessel.com/projects/latent_interest/latent_interest.html). On Canvas, you can either download the full dataset (4.6 GB uncompressed) or the two files called for in the main part of the notebook. <br><br>
 
 **Notebook 7: Web Scraping and APIs** <br>
-[Jupyter Notebook](notebooks/soc128d_notebook7_webscraping_and_APIs_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1vRO6XojB8no12jO0dLXDLDD8XgM96DT9?usp=sharing) <br>
+[Jupyter Notebook](notebooks/soc128d_notebook7_webscraping_and_APIs_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1vRO6XojB8no12jO0dLXDLDD8XgM96DT9?usp=sharing) <br><br>
 
 
 **Notebook 8: Modeling Ratings and Sentiment using Python** <br>
-[Jupyter Notebook](notebooks/soc128d_notebook8_modeling_ratings_and_sentiment_using_python_v2.ipynb) | [Colab](https://colab.research.google.com/drive/13Z0Sp7PQHjxtiIn-U4Yj7GT3OLojtwTl?usp=sharing) <br>
+[Jupyter Notebook](notebooks/soc128d_notebook8_modeling_ratings_and_sentiment_using_python_v2.ipynb) | [Colab](https://colab.research.google.com/drive/13Z0Sp7PQHjxtiIn-U4Yj7GT3OLojtwTl?usp=sharing) <br><br>
+
+
+**Notebook 9: Bias and Stereotyping in Pretrained Word Embeddings** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook9_bias_in_pretrained_word_embeddings_v2.ipynb) | [Colab](https://colab.research.google.com/drive/12WSnU4SAtsxNm0K-UTI0E-ejcS1NOsr4?usp=sharing) <br><br>
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

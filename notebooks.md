@@ -5,8 +5,7 @@ title: "Notebooks"
 
 **Notebook 1: Getting Started with Text Data and Jupyter Notebooks** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_v2.ipynb) | [Colab](https://colab.research.google.com/drive/117EaXyD9UOnzGep_ABMm9p_jVTm4gmAC?usp=sharing) <br>
-Please also download the following, courtesy of Project Gutenberg: <br>
-[Frankenstein](notebooks/frankenstein.txt) | [The Picture of Dorian Gray](notebooks/picture_of_dorian_gray.txt) | [Julius Caesar](notebooks/julius_caesar.txt) <br><br>
+Please also download the text of *Frankenstein*, *The Picture of Dorian Gray*, and *Julius Caesar* from Canvas (courtesy of [Project Gutenberg](https://www.gutenberg.org/)) <br><br>
 
 **Notebook 2: Manipulating, Quantifying, and Visualizating Text Data** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook2_manipulating_quantifying_visualizing_text_data_v2.ipynb) | [Colab](https://colab.research.google.com/drive/12GnWfuCiVWow7zRIzSSCcM0XsK0cxrNU?usp=sharing) <br>

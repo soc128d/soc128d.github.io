@@ -41,6 +41,10 @@ The dataset is available both on Canvas (with Dr. Hessel's permission) and from 
 **Notebook 9: Bias and Stereotyping in Pretrained Word Embeddings** <br>
 [Jupyter Notebook](notebooks/soc128d_notebook9_bias_in_pretrained_word_embeddings_v2.ipynb) | [Colab](https://colab.research.google.com/drive/12WSnU4SAtsxNm0K-UTI0E-ejcS1NOsr4?usp=sharing) <br><br>
 
+**Notebook 10: Training Word Embeddings (and extras)** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook10_training_word_embeddings_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1uaPogNwFsZCkTnWpL6qq1vm8I-MknIEx?usp=sharing) <br>
+You can find the raw dataset from Maas et al. (2011) [here](https://ai.stanford.edu/~amaas/data/sentiment/). With Dr. Andrew Maas's permission, I have made preprocessed versions of the train and test sets available as JSON files on Canvas. <br><br>
+
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)
 > Please also download:

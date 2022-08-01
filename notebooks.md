@@ -45,6 +45,11 @@ The dataset is available both on Canvas (with Dr. Hessel's permission) and from 
 [Jupyter Notebook](notebooks/soc128d_notebook10_training_word_embeddings_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1uaPogNwFsZCkTnWpL6qq1vm8I-MknIEx?usp=sharing) <br>
 You can find the raw dataset from Maas et al. (2011) [here](https://ai.stanford.edu/~amaas/data/sentiment/). With Dr. Andrew Maas's permission, I have made preprocessed versions of the train and test sets available as JSON files on Canvas. <br><br>
 
+**Notebook 11: Topic Modeling with Gensi** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook11_topic_modeling_with_gensim_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1x9TzwIHh0MmLM24QgRFKO3xs0oklJ5Tg?usp=sharing) <br>
+Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
+
+
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)
 > Please also download:

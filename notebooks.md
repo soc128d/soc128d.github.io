@@ -49,6 +49,10 @@ You can find the raw dataset from Maas et al. (2011) [here](https://ai.stanford.
 [Jupyter Notebook](notebooks/soc128d_notebook11_topic_modeling_with_gensim_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1x9TzwIHh0MmLM24QgRFKO3xs0oklJ5Tg?usp=sharing) <br>
 Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
 
+**Notebook 12: Evaluating Topic Models** <br>
+[Jupyter Notebook](notebooks/soc128d_notebook12_evaluating_topic_models_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1ImyF1b5QI7OmEjVL7YQVCJlgwr53RRMO?usp=sharing) <br>
+Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
+
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

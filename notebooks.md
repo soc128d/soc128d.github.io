@@ -53,6 +53,10 @@ Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><
 [Jupyter Notebook](notebooks/soc128d_notebook12_evaluating_topic_models_v2.ipynb) | [Colab](https://colab.research.google.com/drive/1ImyF1b5QI7OmEjVL7YQVCJlgwr53RRMO?usp=sharing) <br>
 Please also download the dataset (rjobs_preprocessed_v3.json) from Canvas. <br><br>
 
+**Notebook 13: Combined Topic Models and Using Topics as Variables** <br>
+[Colab](https://colab.research.google.com/drive/1ARK5qaURcJu0cdY-49Zjkquf8fl_YEuD?usp=sharing) <br>
+Please also download the dataset (yelp_reviews_sample_for_notebook13.json) from Canvas. <br><br>
+
 
 <!-- Notebook 1: Getting Started with Text Data and Jupyter Notebooks <br>
 > [IPYNB](notebooks/soc128d_notebook1_getting_started_with_text_data_and_jupyter_notebooks.ipynb)

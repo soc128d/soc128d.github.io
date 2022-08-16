@@ -14,6 +14,6 @@ title: "Resources"
 [BERT 101](https://huggingface.co/blog/bert-101) by Britney Muller <br>
 [Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin <br>
 [The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar
-* Other Illustrated Guides by Jay Alammar: [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/), [Transformers](https://jalammar.github.io/illustrated-transformer/), [Contextual Embeddings (including BERT)](https://jalammar.github.io/illustrated-bert/), and [BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) <br>
+* Other Illustrated Guides by Jay Alammar: [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/), [Transformers](https://jalammar.github.io/illustrated-transformer/), [The Illustrated BERT](https://jalammar.github.io/illustrated-bert/), and [Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) <br>
 
 [Topic Modelling Meets Deep Neural Networks: A Survey](https://arxiv.org/abs/2103.00498) by Zhao et al. <br>

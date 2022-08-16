@@ -11,4 +11,6 @@ title: "Resources"
 [pythex](https://pythex.org/) (A site for practicing or testing regular expressions in Python) <br><br>
 
 **Natural Language Processing** <br>
-[Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin <br><br>
+[Speech and Language Processing (3rd edition draft)](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin <br>
+[The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar <br>
+Other Illustrated Guides by Jay Alammar: [Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/), [Transformers](https://jalammar.github.io/illustrated-transformer/), [Contextual Embeddings (including BERT)](https://jalammar.github.io/illustrated-bert/), and [BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) <br>
